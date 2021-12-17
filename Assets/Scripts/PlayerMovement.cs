@@ -7,7 +7,7 @@ public class PlayerMovement : NetworkBehaviour
 {
     private Rigidbody rbPlayer;
     private Vector3 direction = Vector3.zero;
-    public float speed = 10.0f;
+    public float speed = 80.0f;
     public GameObject[] spawnPoints = null;
 
     // Start is called before the first frame update

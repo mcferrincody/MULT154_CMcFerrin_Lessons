@@ -5,7 +5,7 @@ using UnityEngine;
 public class SwarmBrain : MonoBehaviour
 {
 
-    private bool hasHive = true;
+    /*private bool hasHive = true;
     private Patrol patrol;
     private Bot bot;
     void Start()
@@ -28,5 +28,5 @@ public class SwarmBrain : MonoBehaviour
         {
             bot.Persue();
         }
-    }
+    }*/
 }

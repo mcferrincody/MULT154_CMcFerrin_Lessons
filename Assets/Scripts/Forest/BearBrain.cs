@@ -32,7 +32,7 @@ public class BearBrain : MonoBehaviour
             }
             else if (bot.CanSeeTarget())
             {
-                bot.Persue();
+                //bot.Persue();
             }
             else
             {
